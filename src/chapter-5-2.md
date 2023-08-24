@@ -1,5 +1,3 @@
-Automated Content Curation and Personalization using AI
-===============================================================================================================
 
 Incorporating AI into marketing and advertising practices can provide numerous benefits, such as automated content curation and personalization. By automating these processes, businesses can save time and resources while delivering more targeted and effective marketing messages. In this chapter, we will explore how AI can improve marketing and advertising through automated content curation and personalization.
 
